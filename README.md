@@ -1,3 +1,1 @@
-### Demo
-
-https://code-sync.codersgyan.com/
+Real Time Text Editor Project using Socket.io.
